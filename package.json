@@ -211,8 +211,7 @@
       "@napi-rs/canvas",
       "authenticate-pam",
       "esbuild",
-      "protobufjs",
-      "sharp"
+      "protobufjs"
     ]
   }
 }
