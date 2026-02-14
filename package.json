@@ -209,8 +209,10 @@
       "@matrix-org/matrix-sdk-crypto-nodejs",
       "@napi-rs/canvas",
       "authenticate-pam",
-      "esbuild",
-      "protobufjs"
+      "esbuild"
     ]
+  },
+  "overrides": {
+    "protobufjs": "6.11.4"
   }
 }
